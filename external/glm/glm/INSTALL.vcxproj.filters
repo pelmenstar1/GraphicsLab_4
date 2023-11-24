@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\KPI\3 semester\algorithms\labs\lab4\CMakeFiles\78bf3cda5d2c3b2b40b5470bd909240d\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{50FAC5C5-3861-3CAB-85DD-3EDC57BF982B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
